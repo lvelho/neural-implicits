@@ -9,4 +9,4 @@ Research of the VISGRAF Laboratory in neural implicit representations of 3D scen
 
 ### Contact
 
-Luiz Velho (https://lvelho.github.io/)
+[Luiz Velho](https://lvelho.github.io/)
